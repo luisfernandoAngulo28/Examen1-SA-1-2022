@@ -1,0 +1,5 @@
+D:\EDI\ED ex1 traspose\cApp\obj\Release\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED ex1 traspose\cApp\bin\Release\cApp.dll
+D:\EDI\ED ex1 traspose\cApp\bin\Release\cApp.pdb
+D:\EDI\ED ex1 traspose\cApp\obj\Release\cApp.dll
+D:\EDI\ED ex1 traspose\cApp\obj\Release\cApp.pdb

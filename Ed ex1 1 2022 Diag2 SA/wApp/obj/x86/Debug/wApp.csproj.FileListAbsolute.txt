@@ -1,0 +1,145 @@
+D:\EDI\wApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EDI\wApp\obj\x86\Debug\wApp.fNatu.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\wApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EDI\wApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EDI\wApp\bin\Debug\wApp.exe
+D:\EDI\wApp\bin\Debug\wApp.pdb
+D:\EDI\wApp\bin\Debug\cApp.dll
+D:\EDI\wApp\bin\Debug\cApp.pdb
+D:\EDI\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\wApp\obj\x86\Debug\wApp.FSparce.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.FPila.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.FCola.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.FcolaC.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.FPilaM.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.fSlist.resources
+D:\EDI\wApp\obj\x86\Debug\wApp.FPoly.resources
+D:\EDI\ED v1\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\ED v1\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\ED v1\wApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v1\wApp\obj\x86\Debug\wApp.fNatu.resources
+D:\EDI\ED v1\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\ED v1\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\ED v1\wApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EDI\ED v1\wApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EDI\ED v1\wApp\bin\Debug\wApp.exe
+D:\EDI\ED v1\wApp\bin\Debug\wApp.pdb
+D:\EDI\ED v1\wApp\bin\Debug\cApp.dll
+D:\EDI\ED v1\wApp\bin\Debug\cApp.pdb
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\ED v3\wApp\bin\Debug\wApp.exe
+D:\EDI\ED v3\wApp\bin\Debug\wApp.pdb
+D:\EDI\ED v3\wApp\bin\Debug\cApp.dll
+D:\EDI\ED v3\wApp\bin\Debug\cApp.pdb
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\ED v4\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\ED v4\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\ED v4\wApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v4\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\ED v4\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\ED v4\wApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EDI\ED v4\wApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EDI\ED v4\wApp\bin\Debug\wApp.exe
+D:\EDI\ED v4\wApp\bin\Debug\wApp.pdb
+D:\EDI\ED v4\wApp\bin\Debug\cApp.dll
+D:\EDI\ED v4\wApp\bin\Debug\cApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\wApp.exe
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\wApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\wApp.fFigu.resources
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\wApp.menu.resources
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\bin\Debug\wApp.exe
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\bin\Debug\wApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\bin\Debug\cApp.dll
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED\wApp\bin\Debug\cApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\wApp.exe
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\wApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\bin\Debug\wApp.exe
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\bin\Debug\wApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\bin\Debug\cApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\wApp.fFigu.resources
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\wApp.menu.resources
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\wApp\bin\Debug\cApp.dll
+D:\EDI\ED v4\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.csproj.AssemblyReference.cache
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.csproj.GenerateResource.cache
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED v3\wApp\obj\x86\Debug\wApp.csproj.CopyComplete
+D:\EDI\ED ex1 traspose\wApp\bin\Debug\wApp.exe
+D:\EDI\ED ex1 traspose\wApp\bin\Debug\wApp.pdb
+D:\EDI\ED ex1 traspose\wApp\bin\Debug\cApp.dll
+D:\EDI\ED ex1 traspose\wApp\bin\Debug\cApp.pdb
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.csproj.GenerateResource.cache
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.csproj.CopyComplete
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Debug\wApp.csproj.AssemblyReference.cache
+D:\EDI\ED ex1 Diagonal2\wApp\bin\Debug\wApp.exe
+D:\EDI\ED ex1 Diagonal2\wApp\bin\Debug\wApp.pdb
+D:\EDI\ED ex1 Diagonal2\wApp\bin\Debug\cApp.dll
+D:\EDI\ED ex1 Diagonal2\wApp\bin\Debug\cApp.pdb
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.csproj.GenerateResource.cache
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.csproj.CopyComplete
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\ED ex1 Diagonal2\wApp\obj\x86\Debug\wApp.csproj.AssemblyReference.cache
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\bin\Debug\wApp.exe
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\bin\Debug\wApp.pdb
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\bin\Debug\cApp.dll
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\bin\Debug\cApp.pdb
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.GenerateResource.cache
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.CopyComplete
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\Ed ex1 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.AssemblyReference.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\bin\Debug\wApp.exe
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\bin\Debug\wApp.pdb
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\bin\Debug\cApp.dll
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.GenerateResource.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.CopyComplete
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.pdb
+D:\EDI\Examenes\Ed ex1 1 2022 Diagonal2 solucion\wApp\obj\x86\Debug\wApp.csproj.AssemblyReference.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\bin\Debug\wApp.exe
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\bin\Debug\wApp.pdb
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\bin\Debug\cApp.dll
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.csproj.AssemblyReference.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.fSpar.resources
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.menu.resources
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.Properties.Resources.resources
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.csproj.GenerateResource.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.csproj.CopyComplete
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.exe
+D:\EDI\Examenes\Ed ex1 1 2022 Diag2 SA\wApp\obj\x86\Debug\wApp.pdb

@@ -1,0 +1,25 @@
+D:\EDI\ED v3\wApp\bin\Release\wApp.exe
+D:\EDI\ED v3\wApp\bin\Release\wApp.pdb
+D:\EDI\ED v3\wApp\bin\Release\cApp.dll
+D:\EDI\ED v3\wApp\bin\Release\cApp.pdb
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.csproj.AssemblyReference.cache
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.fSpar.resources
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.menu.resources
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.Properties.Resources.resources
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.csproj.GenerateResource.cache
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.csproj.CopyComplete
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.exe
+D:\EDI\ED v3\wApp\obj\x86\Release\wApp.pdb
+D:\EDI\ED ex1 traspose\wApp\bin\Release\wApp.exe
+D:\EDI\ED ex1 traspose\wApp\bin\Release\wApp.pdb
+D:\EDI\ED ex1 traspose\wApp\bin\Release\cApp.pdb
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.fSpar.resources
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.menu.resources
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.Properties.Resources.resources
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.csproj.GenerateResource.cache
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.csproj.CopyComplete
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.exe
+D:\EDI\ED ex1 traspose\wApp\obj\x86\Release\wApp.pdb
+D:\EDI\ED ex1 traspose\wApp\bin\Release\cApp.dll
